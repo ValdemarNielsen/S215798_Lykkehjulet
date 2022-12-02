@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Activities">
+        <item >Paragliding</item>
+        <item >Mountainbike</item>
+        <item >Snowboarding</item>
+        <item >Parachuting</item>
+        <item >Hockey</item>
+        <item >Handball</item>
+        <item >Badminton</item>
+        <item >Tennis</item>
+    </string-array>
+
+    <string-array name="Animals">
+        <item >Buffalo</item>
+        <item >hippopotamus</item>
+        <item >Zebra</item>
+        <item >Swan</item>
+        <item >Squirrel</item>
+        <item >Ostrich</item>
+        <item >Elephant</item>
+        <item >Panther</item>
+    </string-array>
+
+    <string-array name="Food">
+        <item >Chocolate</item>
+        <item >Eggplant</item>
+        <item >Cucumber</item>
+        <item >Pumpkin</item>
+        <item >Hazelnut</item>
+        <item >Haggis</item>
+        <item >Pancake</item>
+        <item >Cheese</item>
+    </string-array>
+
+    <string-array name="Brands">
+        <item >Kellogg</item>
+        <item >Volkswagen</item>
+        <item >Maserati</item>
+        <item >Audi</item>
+        <item >Lacoste</item>
+        <item >Hummel</item>
+        <item >Google</item>
+        <item >Gucci</item>
+    </string-array>
+
+</resources>
